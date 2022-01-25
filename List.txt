@@ -1,0 +1,4 @@
+rager
+cscope
+mc
+net-tools
