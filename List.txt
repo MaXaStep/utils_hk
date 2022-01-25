@@ -2,3 +2,4 @@ rager
 cscope
 mc
 net-tools
+ipython
