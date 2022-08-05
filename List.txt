@@ -1,4 +1,4 @@
-rager
+ranger
 cscope
 mc
 net-tools
